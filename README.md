@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and Flutter
+- 🌱 I’m currently learning Java (Android) and Dart (Flutter)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSB-tqk&show_icons=true&theme=radical)
 
