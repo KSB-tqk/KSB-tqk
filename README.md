@@ -1,4 +1,4 @@
-### Hi there , I'm Tran Quoc Khanh. It's nice to see you here
+### Hi there ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) , I'm Tran Quoc Khanh. It's nice to see you here
 
 - 🌱 I’m currently learning Java (Android) and Dart (Flutter)
 
