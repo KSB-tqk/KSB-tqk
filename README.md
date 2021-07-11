@@ -1,4 +1,4 @@
-### Hi there, I'm Tran Quoc Khanh. It's nice to see you here
+### Hi there 👋, I'm Tran Quoc Khanh. It's nice to see you here
 
 - 🌱 I’m currently learning Java (Android) and Dart (Flutter) 
 
