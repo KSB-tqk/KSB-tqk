@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tran Quoc Khanh. It's nice to see you here
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Tran Quoc Khanh. It's nice to see you here
 
 - 🌱 I’m an Android Developer - Kotlin 
 - 🌱 I’m currently learning Java (Android) and Dart (Flutter) 
